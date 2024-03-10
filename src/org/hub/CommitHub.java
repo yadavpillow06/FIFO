@@ -19,5 +19,6 @@ public class CommitHub {
 			num /= 10;
 		}
 		return result;
+		System.out.println("Finish All");
 	}
 }
